@@ -1,2 +1,2 @@
 # personal-blog
-This is a personal blog where I discuss what I've recently accomplished in computer science/programming using HTML, CSS, and Javascript.
+This is a personal website showcasing all of the projects I have worked on using HTML, CSS, and Javascript.
